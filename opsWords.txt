@@ -40,3 +40,5 @@ position n.位置；vt.定位
 198. paragraph  [ˈpærəgrɑ:f] n. 段(落)，节，短讯 
 199. multi  [mʌlti] (词头)多 
 修复bug
+开发商城--开发完毕
+
