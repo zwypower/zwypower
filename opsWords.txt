@@ -1,0 +1,42 @@
+mark  n.标记；vt.加标记
+field   n.字段,域，栏，场
+procedure n.过程，程序，工序
+dialog  n.&vt. 对话
+related a.相关的
+item n.项目，条款
+parameter n.参数，参变量
+variable a.可变的;n.变量
+each a.&ad. 各，每个
+function n.函数，功能，操作
+button n.按钮
+index n.索引，变址，指数
+appear vi.出现，显眼，好像
+desire v.&n. 期望
+position n.位置；vt.定位
+116. structure [ˈstrʌktʃə] n. 结构，构造，构件 
+119. blank [blæŋk] n. 空白，间隔
+124. erase [iˈreiz] v. 擦除，取消，删除
+129. column  [ˈkɔləm] n. 列，柱，栏 
+131. prompt [prɔmpt] n. & v. 提示
+133. execute [ˈeksikju:t] v. 实行，实施
+135. escape [iˈskeip] v. 逃避，逸出，换码
+137. currently [ˈkʌrəntli] ad. 目前，现在
+138. extension  [ikˈstenʃən] n. 扩充，延伸
+142. argument [ˈɑ:gju:mənt] n. 变元，自变量 
+146. scroll [skrəul] vt. 上滚(卷)；n. 纸卷 
+147. replace [ri(:)ˈpleis] vt. 替换，置换，代换 
+151. define [diˈfain] vt. 定义，规定，分辨 
+155. pressing [ˈpresiŋ] n. & a. 压制；紧急的 
+162. decimal  [ˈdesiməl] n. & a. 十进制；十进制的 
+164. definition [ˌdefiˈniʃən] n. 定义，确实，清晰度 
+169. arrow [ˈærəu] n. 箭头，指针 
+172. issue [ˈiʃu:, ˈisju:] v. 发行，出版，流出
+176. associate [əˈsəuʃieit] v. 相联，联想，关联 
+177. attribute [ˈætribju:t, əˈtribju:t] n. 属性，标志，表征 
+180. order  [ˈɔ:də] n. & vt. 指令，次序；排序 
+182. array  [əˈrei] n. 数组，阵列 
+190. carriage  [ˈkæridʒ] n. 滑架，托架 
+196. exist [igˈzist] vi. 存在，生存，有 
+198. paragraph  [ˈpærəgrɑ:f] n. 段(落)，节，短讯 
+199. multi  [mʌlti] (词头)多 
+
